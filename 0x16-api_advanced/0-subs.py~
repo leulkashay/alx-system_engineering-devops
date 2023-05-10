@@ -1,0 +1,7 @@
+#!/usr/bin/python3
+"""Function to query subscribers on a given Reddit subReddit."""
+import requests
+
+
+def number_of__subscribers(subreddit):
+    pass
